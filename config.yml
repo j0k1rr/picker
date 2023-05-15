@@ -5,13 +5,13 @@ proxy:
   bot: false
 rss:
   CustomRSS:
-    enabled: true
+    enabled: false
     filename: CustomRSS.opml
   Subscriptions-OnMyMac:
-    enabled: true
+    enabled: false
     filename: Subscriptions-OnMyMac.opml
   CyberSecurityRSS:
-    enabled: true
+    enabled: false
     url: >-
       https://github.com/chainreactors/picker/raw/master/rss/CyberSecurityRSS.opml
     filename: CyberSecurityRSS.opml
@@ -20,21 +20,21 @@ rss:
     url: https://github.com/chainreactors/picker/raw/master/rss/CyberSecurityRSS-tiny.opml
     filename: CyberSecurityRSS-tiny.opml
   Chinese-Security-RSS:
-    enabled: true
+    enabled: false
     url: >-
       https://github.com/chainreactors/picker/raw/master/rss/Chinese-Security-RSS.opml
     filename: Chinese-Security-RSS.opml
   awesome-security-feed:
-    enabled: true
+    enabled: false
     url: >-
       https://github.com/chainreactors/picker/raw/master/rss/awesome-security-feed.opml
     filename: awesome-security-feed.opml
   SecurityRSS:
-    enabled: true
+    enabled: false
     url: 'https://github.com/Han0nly/SecurityRSS/blob/master/SecureRss.opml'
     filename: SecureRss.opml
   wechatRSS:
-    enabled: true
+    enabled: false
     url: 'https://wechat2rss.xlab.app/opml/sec.opml'
     filename: wechatRSS.opml
   chinese-independent-blogs:
